@@ -1,0 +1,296 @@
+body{
+    background-color: #29292C;
+    height: auto;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#border{
+    border: 1px solid black;
+    width: 100%; 
+    display: inline-block;
+    height: 10vh; 
+    color: white;
+    
+}
+#border img{
+    height: 40px;
+    display: inline;
+}
+
+#thoughtful{
+    font-size: 1em;
+     color: #E03131;
+     display: inline;
+}
+
+ li{
+    display: inline;
+    padding: 1em;
+ }
+
+ li a {
+    color: white;
+    text-decoration: none;
+ }
+
+ li a:hover{
+    color: red;
+ }
+
+ li a button{
+    background-color: blue;
+    padding: 1em;
+ }
+
+ .one, .two{
+    display: inline-block;
+ }
+
+ .one{
+    padding-left: 2em;
+ }
+
+ .two{
+    float: right;
+    padding-right: 1em;
+ }
+
+ #gaint{
+   text-align: center;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+
+ }
+ #written{
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+
+ }
+ #bot{
+   color:#ffe790;
+ 
+ }
+ #bot:hover{
+   color: white;
+ }
+ #ruby{
+   margin-left: 270px;
+   font-size:20px;
+   font-weight: bold;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ #now{
+   margin-left: 270px;
+   font-size: 20px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ #guy{
+   color:white;
+   text-decoration: none;
+ }
+ #guy:hover{
+   color: #ffe790;
+ }
+ #news{
+   margin-left: 270px;
+   font-size: medium;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+
+ }
+ #lin{
+   font-family: Arial, Helvetica, sans-serif;
+   color: #ffe790;
+   text-decoration: none;
+   font-size: x-large;
+ }
+ #lin:hover{
+   color: white;
+ }
+
+ #by{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+ }
+ #by:hover{
+   color: white;
+ }
+
+ #con{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+ }
+ #con:hover{
+   color: white;
+ }
+
+ #eve{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+ }
+ #eve:hover{
+   color: white;
+ }
+ #dear{
+   margin-left: 270px;
+   font-size:20px;
+   font-weight: bold;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+ #love{
+   color: white;
+   text-decoration: none;
+ }
+ #love:hover{
+   color: #ffe790;
+ }
+
+ #up{
+   margin-left: 270px;
+   font-size: 20px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ #yee{
+   margin-left: 270px;
+   font-size:20px;
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: medium;
+ }
+
+ #chad{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: x-large;
+ }
+ #chad:hover{
+   color: white;
+ }
+ #lol{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+ }
+ #lol:hover{
+   color: white;
+ }
+#rails{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+}
+#rails:hover{
+   color: white;
+}
+#books{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+}
+#books:hover{
+   color: white;
+}
+#nee{
+   color: #ffe790;
+   text-decoration: none;
+   font-size: small;
+}
+#nee:hover{
+   color: white;
+}
+#fraud{
+   font-size:20px;
+   font-weight: bold;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+#please{
+   font-size: 20px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+#san{
+   font-size: 20px;
+}
+#over{
+   font-size: 20px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#number{
+  text-align: center;
+  margin-right: 300px;
+  color: white;
+  font-size: medium;
+
+}
+#no{
+  color: #ffe790;
+  text-decoration: none;
+  font-size: larger;
+}
+#no:hover{
+  color: white;
+}
+
+#upto{
+  margin-top: -40px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+}
+#email{
+  margin-right: 600px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+#label{
+  ol
+}
+footer {
+  display: flex;
+}
+.Company {
+  margin-left: 150px;
+}
+.Social {
+  margin-left: 150px;
+}
+
+.Th {
+  color: white;
+}
+.Th:hover {
+  color: red;
+}
+.Uh {
+  color: white;
+}
+.Uh:hover {
+  color: red;
+}
+.closing {
+  margin-left: 50px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+}
+
